@@ -21,6 +21,9 @@ Transcripts can be accessed in two ways:
 
 3. Expand activities found in the transcript to see their full details
 
+<img width="1424" height="894" alt="cstranscriptviewer-1" src="https://github.com/user-attachments/assets/684b13ab-a070-469d-8139-ecd194f65d0d" />
+
+
 ### Copy and paste transcript JSON from another environment
 
 1. Open the three dots menu found in the sidebar footer
