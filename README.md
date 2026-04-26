@@ -48,8 +48,7 @@ The following items are required to use the Transcript Viewer app:
 
 ## Installation
 
-1. Download the managed solution named */CopilotStudioTraceViewer_1_0_0_11_managed.zip
-* from this repostory.
+1. Download the managed solution named **CopilotStudioTraceViewer_1_0_0_11_managed.zip** from this repostory.
 
 2. Open the Power Platform environment you wish to install the solution into in Power Apps.
 
