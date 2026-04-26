@@ -6,6 +6,9 @@ Transcripts can be accessed in two ways:
 - Search for a transcript in the *current environment* where the app is installed.
 - Paste a transcript JSON from *another environment* directly into the app.
 
+<img width="1236" height="756" alt="image" src="https://github.com/user-attachments/assets/8c1d0bf4-447d-44ac-9a87-f027493f2d23" />
+
+
 
 ## Quickstart
 
