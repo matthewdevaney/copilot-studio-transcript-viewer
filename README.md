@@ -9,8 +9,6 @@ Transcripts can be accessed in two ways:
 <img width="1236" height="755" alt="image" src="https://github.com/user-attachments/assets/42b66ced-147b-47cb-a751-225d248887c6" />
 
 
-
-
 ## Quickstart
 
 ### Search transcript from the current environment
@@ -36,6 +34,8 @@ Transcripts can be accessed in two ways:
 
 5. Expand activities found in the transcript to see their full details
 
+<img width="1424" height="894" alt="cstranscriptviewer-2" src="https://github.com/user-attachments/assets/7d48f2ce-49d1-44b1-be2d-1e191232052a" />
+
 
 ## Pre-Requisites
 
@@ -44,6 +44,7 @@ The following items are required to use the Transcript Viewer app:
 - Security role with organization-level read-access to these tables:
     - Agent (bot) 
     - Conversation Transcript (conversationtranscript) 
+
 
 ## Installation
 
