@@ -1,6 +1,6 @@
 # Copilot Studio Transcript Viewer
 
-__Copilot Studio Transcript Viewer__ is a Power Apps code app  that enables you to explore the *full* conversation transcripts for any agent and see *hidden* their details to assist with troubleshooting.
+__Copilot Studio Transcript Viewer__ is a Power Apps code app  that enables you to explore the *full* conversation transcripts for any agent and see *hidden* details to assist with troubleshooting.
 
 Transcripts can be accessed in two ways:
 - Search for a transcript in the *current environment* where the app is installed.
